@@ -1,0 +1,6 @@
+{
+  "name": "AdGenius AI",
+  "description": "Generate a clean, professional e-commerce product suite including side angles, detail shots, and high-quality studio catalog views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image_generation", "ai_powered"]
+}
